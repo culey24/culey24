@@ -57,24 +57,23 @@ I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh Ci
 ### 📊 Performance & Coding Metrics
 
 <p align="center">
-  <!-- LeetCode Stats Widget (Configured with Tokyo Night Theme) -->
+  <!-- LeetCode Stats Card - Bản nâng cấp chạy mượt -->
   <a href="https://leetcode.com/culey24">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=culey24&theme=tokyonight" alt="LeetCode Stats" height="180M" />
+    <img src="https://leetcard.jacoblin.cool/culey24?theme=tokyonight&font=Inter" alt="LeetCode Stats" height="180" />
   </a>
   
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/culey24">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=culey24&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180M" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=culey24&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Top Languages Widget (Sử dụng server tối ưu hơn) -->
+  <!-- Top Languages Widget - Đã fix lỗi load -->
   <a href="https://github.com/culey24">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=culey24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" alt="Top Languages" height="165" />
   </a>
 </p>
-
 ---
 
 ### 🌟 Featured Academic Projects
