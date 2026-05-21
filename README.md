@@ -12,6 +12,7 @@
 I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh City University of Technology (**HCMUT**). My engineering focus revolves around bridging the gap between core systems programming and high-performance AI architectures. 
 
 - 🛠️ **Current Focus:** Software Engineering, Natural Language Processing (NLP), and Generative AI.
+- 🛠️ **Current Learning fields:** Practicing ML/DL
 - 🐧 **Environment:** I use linux in the most boring way.
 
 ---
@@ -57,20 +58,20 @@ I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh Ci
 
 <p align="center">
   <!-- LeetCode Stats Widget (Configured with Tokyo Night Theme) -->
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=tokyonight" alt="LeetCode Stats" height="180M" />
+  <a href="https://leetcode.com/culey24">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=culey24&theme=tokyonight" alt="LeetCode Stats" height="180M" />
   </a>
   
   <!-- GitHub Streak Stats -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180M" />
+  <a href="https://github.com/culey24">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=culey24&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180M" />
   </a>
 </p>
 
 <p align="center">
   <!-- Top Languages Widget -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165M" />
+  <a href="https://github.com/culey24">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=culey24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165M" />
   </a>
 </p>
 
