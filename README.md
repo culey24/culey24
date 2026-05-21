@@ -1,4 +1,4 @@
-# Hi there, I'm Quach Gia Bao (Avatara) 👋
+# Hi there, I'm Quach Gia Bao 👋
 
 <p align="left">
   <a href="https://culey24.github.io"><img src="https://img.shields.io/badge/Portfolio-culey24.github.io-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
@@ -78,10 +78,7 @@ I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh Ci
 ---
 
 ### 🌟 Featured Academic Projects
-* 🏡 **[BKHome-ecosystem](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO)**: A production-ready Advanced Hierarchical RAG and Multi-Agent Knowledge Engine targeting university institutional frameworks. Powered by Python, LangGraph, Qdrant, and Neo4j.
-* 🅿️ **[Smart Parking Management System](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO)**: An IoT-integrated software platform built around optimized concurrent relational database design and clean software architecture patterns.
-* 💻 **[OS MLQ Scheduler](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO)**: A Multi-Level Queue CPU Scheduler written in modern C++ featuring precise synchronization structures.
-
+* 🏡 **[BKHome Chatbot](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO)**: Great chatbot i made
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/rainbow-bar.gif" width="100%" height="3px" alt="div" />
 </p>
