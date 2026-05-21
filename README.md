@@ -11,9 +11,9 @@
 ### 🚀 About Me
 I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh City University of Technology (**HCMUT**). My engineering focus revolves around bridging the gap between core systems programming and high-performance AI architectures. 
 
-- 🛠️ **Current Focus:** Software Engineering, Natural Language Processing (NLP), and Generative AI.
-- 🛠️ **Current Learning fields:** Practicing ML/DL
-- 🐧 **Environment:** I use linux in the most boring way.
+- **Current Focus:** Software Engineering, Natural Language Processing (NLP), and Generative AI.
+- **Current Learning fields:** Practicing ML/DL
+- **Environment:** I use linux in the most boring way.
 
 ---
 
@@ -69,9 +69,9 @@ I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh Ci
 </p>
 
 <p align="center">
-  <!-- Top Languages Widget -->
+  <!-- Top Languages Widget (Sử dụng server tối ưu hơn) -->
   <a href="https://github.com/culey24">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=culey24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165M" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=culey24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" alt="Top Languages" height="165" />
   </a>
 </p>
 
