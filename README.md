@@ -68,13 +68,6 @@ I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh Ci
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=culey24&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
   </a>
 </p>
-
-<p align="center">
-  <!-- Top Languages Widget - Đã fix lỗi load -->
-  <a href="https://github.com/culey24">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=culey24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" alt="Top Languages" height="165" />
-  </a>
-</p>
 ---
 
 ### 🌟 Featured Academic Projects
