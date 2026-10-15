@@ -1,4 +1,4 @@
-# Hi there, I'm Quach Gia Bao 👋
+# Hi there, I'm Quach Gia Bao
 
 <p align="left">
   <a href="https://culey24.github.io"><img src="https://img.shields.io/badge/Portfolio-culey24.github.io-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
@@ -9,16 +9,16 @@
 
 ---
 
-### 🚀 About Me
-I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh City University of Technology (**HCMUT**). My engineering focus revolves around bridging the gap between core systems programming and high-performance AI architectures. 
+### About Me
+I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh City University of Technology (**HCMUT**). My engineering focus revolves around bridging the gap between core systems programming and high-performance AI architectures. My current focus is combining Full-stack Engineer with AI Researching and creates reliable systems. 
 
-- **Current Focus:** Software Engineering, Natural Language Processing (NLP), and Generative AI.
-- **Current Learning fields:** Practicing ML/DL
-- **Environment:** I use linux in the most boring way.
+- **Current Focus:** Software Engineering, AI Researching
+- **Current Learning fields:** Agentic AI, NLP
+- **Others:** Linux User
 
 ---
 
-### 💻 Core Tech Stack
+### Core Tech Stack
 
 <table border="0">
   <tr>
@@ -55,14 +55,7 @@ I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh Ci
 
 ---
 
-### 📊 Performance & Coding Metrics
-
-<p align="center">
-  <!-- LeetCode Stats Card - Bản nâng cấp chạy mượt -->
-  <a href="https://leetcode.com/culey24">
-    <img src="https://leetcard.jacoblin.cool/culey24?theme=tokyonight&font=Inter" alt="LeetCode Stats" height="180" />
-  </a>
-  
+### Performance 
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/culey24">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=culey24&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
@@ -71,7 +64,7 @@ I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh Ci
 
 ---
 
-### 🌟 Featured Academic Projects
+### Featured Academic Projects
 * 🏡 **[BKHome Chatbot](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO)**: Great chatbot i made
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/rainbow-bar.gif" width="100%" height="3px" alt="div" />
