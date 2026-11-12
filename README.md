@@ -65,11 +65,11 @@ I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh Ci
 ---
 
 ### Featured Academic Projects
-* 🏡 **[BKHome Chatbot](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO)**: Great chatbot i made
+* **[BKHome Chatbot](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO)**: Great chatbot i made, already serving CSE students in HCMUT.
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/rainbow-bar.gif" width="100%" height="3px" alt="div" />
 </p>
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication."</i> — Done is better than perfect. Happy hacking! 🚀
+  <i>Done is better than perfect
 </p>
