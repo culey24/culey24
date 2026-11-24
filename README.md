@@ -23,14 +23,14 @@ I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh Ci
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>🧠 AI / NLP & Systems</strong><br /><br />
+      <strong>AI Systems</strong><br /><br />
       <img src="https://img.shields.io/badge/Python-F8FAFC?style=flat-square&logo=python&logoColor=3776AB" />
       <img src="https://img.shields.io/badge/C%2B%2B-F8FAFC?style=flat-square&logo=c%2B%2B&logoColor=00599C" />
       <img src="https://img.shields.io/badge/Rust-F8FAFC?style=flat-square&logo=rust&logoColor=000000" />
       <img src="https://img.shields.io/badge/Linux-F8FAFC?style=flat-square&logo=linux&logoColor=000000" />
     </td>
     <td valign="top" width="50%">
-      <strong>🌐 Web Development & Databases</strong><br /><br />
+      <strong>Web Development and Databases</strong><br /><br />
       <img src="https://img.shields.io/badge/TypeScript-F8FAFC?style=flat-square&logo=typescript&logoColor=3178C6" />
       <img src="https://img.shields.io/badge/React-F8FAFC?style=flat-square&logo=react&logoColor=0284C7" />
       <img src="https://img.shields.io/badge/Next.js-F8FAFC?style=flat-square&logo=nextdotjs&logoColor=000000" />
@@ -39,13 +39,13 @@ I am a passionate **Computer Science & Engineering Sophomore** at Ho Chi Minh Ci
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>🤖 AI Frameworks & Vector DBs</strong><br /><br />
+      <strong>🤖 AI Frameworks</strong><br /><br />
       <img src="https://img.shields.io/badge/LangChain-F8FAFC?style=flat-square&logo=chainlink&logoColor=1C3C3C" />
       <img src="https://img.shields.io/badge/Qdrant-F8FAFC?style=flat-square&logo=qdrant&logoColor=DC2626" />
       <img src="https://img.shields.io/badge/Neo4j-F8FAFC?style=flat-square&logo=neo4j&logoColor=008CC1" />
     </td>
     <td valign="top" width="50%">
-      <strong>🛠️ Tools & DevOps</strong><br /><br />
+      <strong>🛠️Tools (and devops)</strong><br /><br />
       <img src="https://img.shields.io/badge/Neovim-F8FAFC?style=flat-square&logo=neovim&logoColor=15803D" />
       <img src="https://img.shields.io/badge/Docker-F8FAFC?style=flat-square&logo=docker&logoColor=2496ED" />
       <img src="https://img.shields.io/badge/Git-F8FAFC?style=flat-square&logo=git&logoColor=F05032" />
